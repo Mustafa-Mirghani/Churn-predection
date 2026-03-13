@@ -6,4 +6,4 @@
 - We will build a supervised binary classification model to predict the probability that a customer will churn .
 - A good success metrics will me F1 score(it will balance both the recall and precision ) and ROC-AUC ( i will help because of the dataset imbalance)
 
-- # to be continued 
+- # to be continued .
