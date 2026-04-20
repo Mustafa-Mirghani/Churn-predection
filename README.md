@@ -1,5 +1,5 @@
 # Churn-predection 
-#### Business UnderStanding 
+#### Business UnderStanding ...
 - Customer churn is when your customer unsubsicreibe . 
 - This means that the company will lose money because it will lose a customer .
 - IF we feel we might lose a customer we can make them a discount/offer so they never leave .
