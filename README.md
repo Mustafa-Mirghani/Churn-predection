@@ -31,23 +31,6 @@ Customer churn is one of the most critical challenges in the telecom industry. A
 
 ---
 
-## 📁 Project Structure
-
-```
-├── data/
-│   └── telco_churn.csv
-├── notebooks/
-│   └── churn_prediction.ipynb
-├── images/
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   └── feature_importance.png
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## 🔬 Methodology
 
 ### 1. Exploratory Data Analysis
