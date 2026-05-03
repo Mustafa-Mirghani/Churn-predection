@@ -168,16 +168,16 @@ scipy           1.11
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/churn-prediction.git
+git clone https://github.com/Mustafa-Mirghani/Churn-predection
 
 # 2. Navigate to project directory
-cd churn-prediction
+cd churn-predection
 
 # 3. Install dependencies
 pip install -r requirements.txt
 
 # 4. Launch Jupyter Notebook
-jupyter notebook notebooks/churn_prediction.ipynb
+jupyter End-to-End Churn predicition project.ipynb
 
 # 5. Run all cells
 ```
@@ -199,7 +199,7 @@ jupyter notebook notebooks/churn_prediction.ipynb
 ## 👤 Author
 
 Mustafa Mirghani
-🐙 [GitHub](https://github.com/yourusername)
+🐙 [GitHub](https://github.com/Mustafa-Mirghani)
 
 ---
 
