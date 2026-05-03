@@ -172,8 +172,6 @@ jupyter End-to-End Churn predicition project.ipynb
 ## 📈 Future Improvements
 
 - [ ] Test ensemble stacking — combining Logistic Regression and XGBoost predictions
-- [ ] Deploy model as REST API using FastAPI or Flask
-- [ ] Build interactive churn probability dashboard using Streamlit
 - [ ] Collect more recent data to retrain model periodically
 - [ ] Explore deep learning approach with larger dataset
 
